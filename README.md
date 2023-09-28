@@ -1,2 +1,2 @@
 ## apple-stock-price-forecasting
-A time series analysis of apple's stock price prediction using LSTM.
+A time series analysis on apple's stock price using LSTM.
